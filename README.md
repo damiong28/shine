@@ -1,5 +1,11 @@
 # README
 
+The sample application from The Pragmatic Programmers book,
+"Rails, Angular, Postgres, and Bootstrap".
+
+The app is an internal tool that will let a company search a database of
+customers.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
